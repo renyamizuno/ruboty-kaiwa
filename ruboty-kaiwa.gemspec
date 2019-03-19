@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Ruboty plugin for chatting japanese."
   spec.description   = "Ruboty plugin for chatting japanese."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/renyamizuno/ruboty-kaiwa"
   spec.license       = "MIT"
 
   spec.require_paths = ["lib"]
